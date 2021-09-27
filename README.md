@@ -4,11 +4,11 @@
 
 ### RUN
 
-$ # clone repository
-$ pip install -r imports.txt 
-$ py dining_hall.py 
+$ # clone repository <br />
+$ pip install -r imports.txt <br />
+$ py dining_hall.py <br />
 
 ### with docker
 
-$ docker build -t dining . # create kitchen image
-$ docker run -d --net pr_lab1 --name dining dining # run docker container on created network
+$ docker build -t dining . # create kitchen image <br />
+$ docker run -d --net pr_lab1 --name dining dining # run docker container on created network <br />
