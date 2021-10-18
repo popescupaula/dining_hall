@@ -6,7 +6,7 @@
 
 $ # clone repository <br />
 $ pip install -r imports.txt <br />
-$ py dining_hall.py <br />
+$ py main.py <br />
 
 ### with docker
 
